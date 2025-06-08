@@ -1,0 +1,20 @@
+
+*** Running vivado
+    with args -log VGA_BRAM_controller_axi_gpio_1_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source VGA_BRAM_controller_axi_gpio_1_0.tcl
+
+
+
+****** Vivado v2020.2 (64-bit)
+  **** SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+  **** IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source VGA_BRAM_controller_axi_gpio_1_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Korisnik/Desktop/VGA_BRAM/Vivado_Project'.
+WARNING: [IP_Flow 19-3656] If you move the project, the path for repository 'c:/Users/Korisnik/Desktop/VGA_BRAM/Vivado_Project' may become invalid. A better location for the repository would be in a path adjacent to the project. (Current project location is 'c:/Users/Korisnik/Desktop/VGA_BRAM/Vivado_Project/Top/result/VGA_BRAM_controller.runs/VGA_BRAM_controller_axi_gpio_1_0_synth_1'.)
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/Users/Korisnik/Desktop/VGA_BRAM/Vivado_Project/Top/result/VGA_BRAM_controller.cache/ip 
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP VGA_BRAM_controller_axi_gpio_1_0, cache-ID = c39cc97f78f1b659.
+INFO: [Common 17-206] Exiting Vivado at Wed Jun  5 13:29:02 2024...
